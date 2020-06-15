@@ -1,16 +1,11 @@
 # navigation_bar
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+Simple navigation bar ready to use.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20200615_104008](https://user-images.githubusercontent.com/60975802/84636368-cc3ca080-aef4-11ea-96e3-182383edfcd8.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20200615_103947](https://user-images.githubusercontent.com/60975802/84636409-db235300-aef4-11ea-877e-e1c92c273395.jpg)
